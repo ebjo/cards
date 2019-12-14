@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Gupter:400,500|Roboto+Slab:300,400,700&display=swap");
+
+
+@import url("components/card.css");
+@import url("components/container.css");
+
+
+
+body {
+	font-family: 'Gupter', serif;
+}
+
+h1, h2, h3 {
+	font-family: 'Roboto Slab', serif;}
+
+h1{
+	font-size:40px;}
+
+h2 {
+	font-size:24px;}
+p{
+	font-size: 18px;}
